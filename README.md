@@ -8,6 +8,9 @@ This is a simple password generator, which does not save your password anyway.
 3. Then it will display an hashed password generated from the private key and the password you entered.
 4. You can use the generated hash for any of your web application.  This way, your password is harder for hackers to guess.
 
+## Issues/To Dos
+The generated hash needs to be shortened and need to add special characters in some way.
+
 ## Benefits
 This app does not save your private key or password.  If you remember them, you can always generate the same hashes, which you can then use.
 
